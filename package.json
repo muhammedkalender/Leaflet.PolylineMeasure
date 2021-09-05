@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ppete2/Leaflet.PolylineMeasure.git"
+    "url": "git+https://github.com/muhammedkalender/Leaflet.PolylineMeasure"
   },
   "author": "",
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/ppete2/Leaflet.PolylineMeasure/issues"
+    "url": "https://github.com/muhammedkalender/Leaflet.PolylineMeasure/issues"
   },
-  "homepage": "https://github.com/ppete2/Leaflet.PolylineMeasure#readme"
+  "homepage": "https://github.com/muhammedkalender/Leaflet.PolylineMeasure#readme"
 }
